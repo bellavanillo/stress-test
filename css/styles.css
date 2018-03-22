@@ -1,0 +1,15 @@
+#high-stress {
+  display: none;
+}
+#mild-stress {
+  display: none;
+}
+#low-stress {
+  display: none;
+}
+.well {
+  background-image: linear-gradient(rgba(255,255,255,0.5),rgba(255,255,255,0.5)) ,url("../img/beach.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
